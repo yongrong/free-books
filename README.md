@@ -77,26 +77,26 @@
 1. [文件系统设计](https://www.amazon.com/exec/obidos/ASIN/1558604979/qid=1012094537/sr=8-1/ref=sr_8_71_1/103-9130044-4352613)（Practical File System Design）, [下载](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
 1. [Docker 初学者教程](https://docker-curriculum.com/)
 1. [开源应用程序的体系结构](http://aosabook.org/en/)
-1. [MacOS 的安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)（中文）
+1. [MacOS 的安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md)
 
 ## 三、编程语言
 
-### 3.1 C，C++
+### 3.1 C/C++
 
 1. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)（PDF）
 1. [Modern C（第二版）](http://modernc.gforge.inria.fr/)
 1. [C 语言学习资料](http://www.isthe.com/chongo/tech/comp/c/index.html)
-1. [C 语言系统编程](https://github.com/illinois-cs241/coursebook)（[在线阅读](http://cs241.cs.illinois.edu/coursebook/index.html)）
+1. [C 语言系统编程](https://github.com/illinois-cs241/coursebook)
 1. C 语言教程：构建 Lisp 编译器（[中文](https://ksco.gitbooks.io/build-your-own-lisp/)，[英文](http://www.buildyourownlisp.com/contents)）
 1. [C 语言内部原理](http://www.avabodh.com/cin/cin.html)（C Internals）
 1. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
-1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
+1. [C/C++ 面向WebAssembly编程](https://github.com/3dgen/cppwasm-book)
 
 ### 3.2 Go
 
 1. [Go 101](https://go101.org/)
 1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
-1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
+1. [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
 1. [Go 语言编程](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)（How To Code in Go）
 
@@ -163,15 +163,15 @@
 1. [SQL 开源教程](https://selectstarsql.com/)
 1. [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 1. [数据库基础](http://webdam.inria.fr/Alice/)
-1. [廖雪峰 SQL 教程](https://www.liaoxuefeng.com/wiki/896043488029600)（中文）
+1. [廖雪峰 SQL 教程](https://www.liaoxuefeng.com/wiki/1177760294764384)（中文）
 1. [PostgreSQL 模式设计](https://www.graphile.org/postgraphile/postgresql-schema-design/)
 
 ## 五、软件开发
 
-1. [计算机科学入门](https://www.bottomupcs.com/index.xhtml)
+1. [计算机科学入门](https://www.bottomupcs.com/)
 1. [编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
 1. [Emulator 101](http://www.emulator101.com/)
-1. [计算机程序的结构和解释（SICP）](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+1. [计算机程序的结构和解释（SICP）](https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/)
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
 1. [从零开始写一个操作系统](https://github.com/cfenollosa/os-tutorial)
 1. [编译器教程](https://github.com/DoctorWkt/acwj): 如何写一个最小的 C 语言编译器
@@ -180,7 +180,7 @@
 1. [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
 1. [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)，by Jeff Erickson，[GitHub 仓库](https://github.com/jeffgerickson/algorithms)
 1. [A* 算法教程](http://theory.stanford.edu/~amitp/GameProgramming/)
-1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners，[英文](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)，[中文卷一](https://beginners.re/RE4B-CN-vol1.pdf), [中文卷二](https://beginners.re/RE4B-CN-vol2.pdf)）
+1. [逆向工程入门](https://github.com/wangyif2/RE-for-beginners)（Reverse Engineering for Beginners，[英文](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)，[中文卷一](https://beginners.re/RE4B-CN-vol1.pdf), [中文卷二](https://beginners.re/RE4B-CN-vol2.pdf)）
 1. [逆向工程初学者教程](https://www.begin.re/)
 1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
@@ -271,12 +271,11 @@
 ## 八、其他
 
 1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
-1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
+1. [技术面试手册](https://github.com/yangshun/tech-interview-handbook)
 1. [如何在应用商店成功？](https://github.com/amirrajan/survivingtheappstore)
 1. [计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
 1. [日语语法教程](https://res.wokanxing.info/jpgramma/conditionals.html)（中文）
 1. [基础德语教程](https://courses.dcs.wisc.edu/wp/readinggerman/print-entire-textbook/)
-1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
 1. [老外的深圳电子产品采购指南](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf)（PDF）
 1. [How to get rich](https://nav.al/rich)
 1. [Marc Andreessen 创业文集](https://pmarchive.com/)
@@ -285,4 +284,3 @@
 1. [《几何原本》在线版](https://www.c82.net/euclid/)
 1. [数据可视化基础](https://serialmentor.com/dataviz/)
 1. [美国海军电气与电子培训系列教材](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
-
