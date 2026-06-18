@@ -4,7 +4,7 @@
 
 没有注明语种的，都为英语资源。
 
-能下载到全网99% PDF电子书的方法 → [PDF下载](https://www.chendianrong.com/pdf)
+能下载到全网99% PDF电子书的方法 → [寻书帮](https://www.chendianrong.com/)
 
 ## 目录
 
