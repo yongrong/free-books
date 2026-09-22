@@ -163,7 +163,7 @@
 1. [SQL 开源教程](https://selectstarsql.com/)
 1. [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 1. [数据库基础](http://webdam.inria.fr/Alice/)
-1. [廖雪峰 SQL 教程](https://www.liaoxuefeng.com/wiki/896043488029600)（中文）
+1. [廖雪峰 SQL 教程](https://liaoxuefeng.com/books/sql/introduction/index.html)（中文）
 1. [PostgreSQL 模式设计](https://www.graphile.org/postgraphile/postgresql-schema-design/)
 
 ## 五、软件开发
@@ -189,6 +189,7 @@
 1. [轻松学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the smart way）
 1. [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)（中文）
 1. [Qt5 教程](https://qmlbook.github.io/)
+1. [Pro Git book](https://git-scm.com/book)
 
 ## 六、人工智能
 
